@@ -1,0 +1,8 @@
+{
+  "name": "RDSearch",
+  "version": "0.1.5",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0"
+  }
+}
